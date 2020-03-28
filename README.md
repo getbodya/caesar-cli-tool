@@ -3,7 +3,7 @@
 
 1. git clone https://github.com/getbodya/caesar-cli-tool.git
 2. cd caesar-cli-tool
-3. node install
+3. npm install
 4. cd task1
 5. node index.js --action encode --shift 7
 
